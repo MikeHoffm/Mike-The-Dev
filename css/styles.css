@@ -1,0 +1,173 @@
+body{
+    margin:0;
+    color:B3541E;
+    background-color: rgb(255, 255, 255);
+    text-align:center;
+    font-family: 'Montserrat', serif;
+    font-size:200%;
+    
+}
+
+/* Top Container */
+
+.mike-dev {
+    position: fixed;
+    top: 50px;
+    left: 70px;
+    width: 15%;
+}
+
+.computer {
+    width: 30%;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color:#ecf8f8;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family:'Montserrat Alternates', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family:'Josefin Sans', sans-serif;
+    font-size: 2.625rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+.cloud01{
+    position: absolute;
+    right:300px;
+    top:50px;
+ }
+ 
+ .cloud02{
+     position: absolute;
+     left: 300px;
+     bottom: 300px;
+ }
+
+ .pro {
+    text-decoration: underline;
+}
+
+/* Middle Container */
+.mike-profile {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    width: 250px;
+    height: 260px;
+    border: 5px solid white;
+    border-radius: 300px;
+}
+p {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #40514E;
+}
+
+.p-content {
+    width: 50%;
+    margin: 0 auto 0 auto; 
+}
+
+hr {
+    border: 5px dotted rgb(177, 171, 171);
+    border-top: none;
+    width: 30px;
+    margin: 50px auto 50px auto;
+}
+
+/* Skills Section */
+
+.skill-row {
+    width:50%;
+    margin: 100px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skills-img01 {
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skills-img02 {
+    width: 50%;
+    float: right;
+    margin-left: 30px;
+}
+
+h3 {
+    font-family:'Josefin Sans', sans-serif;
+    color: #11999E;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+/* Bottom - Footer - Contact Me */
+
+.contact-me {
+    margin-top: 0px;
+}
+
+.contact-h3 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 25px auto 25px auto;
+}  
+
+.contact-p {
+    font-size: 1rem;
+}
+
+button{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    border-style: none;
+    background-image: linear-gradient(#11cdd4,#11999e);
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+    margin: 25px auto 25px auto;
+}
+
+button:hover{
+    color: #06494b;
+}
+
+a{
+    color:#11999E;
+    }
+
+/*Bottom Container */
+    .bottom-container {
+        background-color: #66BFBF;
+        padding: 25px;
+        margin-top: 25px;
+    }
+
+    .footer-link {
+        text-decoration: none;
+        font-size: 1rem;
+        margin-right: 1.5rem;
+        margin-left: 1.5rem;
+        font-weight: bolder;
+    }
+
+    .footer-link:hover {
+        color:rgb(255, 255, 255);
+    }
+
+    .copyright {
+        color:rgb(255, 255, 255);
+        font-size: 1rem;
+    }
