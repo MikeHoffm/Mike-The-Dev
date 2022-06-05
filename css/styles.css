@@ -43,13 +43,13 @@ h2 {
 
 .cloud01{
     position: absolute;
-    right:300px;
+    right:100px;
     top:50px;
  }
  
  .cloud02{
      position: absolute;
-     left: 300px;
+     left: 100px;
      bottom: 300px;
  }
 
